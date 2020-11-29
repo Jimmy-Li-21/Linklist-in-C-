@@ -1,1 +1,1 @@
-# Linklist-in-C-
+Linklist structure practice in C++
